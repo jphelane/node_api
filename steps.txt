@@ -1,0 +1,6 @@
+1. npm init
+   -> creates a package.json file for your application
+
+2. npm install express --save
+   -> installs express framework
+   -> save flag is used to edit the package.json file and add express as a dependency
